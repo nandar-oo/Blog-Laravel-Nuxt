@@ -1,6 +1,6 @@
 # Laravel + Nuxt Project
 
-This is a Laravel + Nuxt project that is a sample blog creating project.
+This is a Laravel + Nuxt project that is a simple blog creating project.
 
 ## Getting Started
 
